@@ -64,7 +64,7 @@ plugins:
       minify_html: true
   - social:
       cards_layout_options:
-        background_color: "#06038D"
+        background_color: "#FF671F"
 
 nav:
   - Home: index.md
