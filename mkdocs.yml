@@ -1,7 +1,7 @@
 site_name: Rentyd®
 site_url: https://www.rentyd.in
 site_author: Rentyd®
-site_description: Rentyd® Website
+site_description: An rental management platform.
 theme:
   name: material
   language: en
